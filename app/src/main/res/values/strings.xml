@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alarm Service</string>
+    <string name="st_init">EXECUTE</string>
+    <string name="st_seconds">Seconds...</string>
+    <string name="st_start">Start</string>
+    <string name="st_stop">Stop</string>
+</resources>
